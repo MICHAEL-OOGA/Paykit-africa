@@ -2,14 +2,14 @@
 
 # Paykit Website
 
-### Fintech Website Design & Front-End Development Case Study
+### Fintech Website Design & Front-End Development Case Study  
 
 A responsive corporate and product website developed for **Paykit Kenya**, a digital payments platform serving individuals, merchants and businesses.
 
 [![Website](https://img.shields.io/badge/Live_Website-paykit.africa-00A7C4?style=for-the-badge)](https://paykit.africa)
 
 </div>
-
+[Visit the Paykit Website](https://paykit.africa)
 ---
 
 ## Overview
